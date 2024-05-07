@@ -1,7 +1,9 @@
 # ml-fema-final-proj
 
 Emmet Houghton
+
 Professor Alex Wong
+
 CPSC 381/581: Machine Learning
 
 ### Forecasting Catastrophe Risk: FEMA National Flood Insurance Program
