@@ -23,6 +23,7 @@ the result in
 public_emdat_custom_request.xlsx
 
 4. Run all code blocks in preprocessing.ipynb
+  (NOTE: Code block which matches claims to storm magnitudes could run for a large number of hours. Took ~3 hrs on a laptop.)
 
-5. Run all code blocks in modeling.ipynb
+6. Run all code blocks in modeling.ipynb
  
