@@ -11,6 +11,9 @@ CPSC 381/581: Machine Learning
 ##### Report:
 See EHoughtonFinalProjectReport.pdf
 
+##### GitHub Link:
+https://github.com/emmethoughton/ml-fema-final-proj/tree/main
+
 ##### Instructions for Running Code:
 
 1. Download codebase and coordinates folder into directory
