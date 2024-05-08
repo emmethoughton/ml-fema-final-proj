@@ -8,6 +8,9 @@ CPSC 381/581: Machine Learning
 
 ### Forecasting Catastrophe Risk: FEMA National Flood Insurance Program
 
+##### Report:
+See EHoughtonFinalProjectReport.pdf
+
 ##### Instructions for Running Code:
 
 1. Download codebase and coordinates folder into directory
